@@ -8,8 +8,7 @@
 https://www.infoarena.ro/problema/2sat
 
 #### Reference
-
--https://codeforces.com/blog/entry/16205
+- https://codeforces.com/blog/entry/16205
 - https://en.wikipedia.org/wiki/2-satisfiability
 
 
